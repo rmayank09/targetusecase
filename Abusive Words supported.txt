@@ -1,0 +1,12 @@
+Target CommentProfanityFilter Usecase
+
+Abusive Words supported : 
+
+1. Pattern Matching Approach 
+	a. fork 
+
+2. Collection of Abusive Words List 
+	a. abuse
+	b. batch
+`	c. cuss
+	d. hateful
